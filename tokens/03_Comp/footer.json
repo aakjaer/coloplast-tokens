@@ -1,1 +1,10 @@
-{}
+{
+  "footer": {
+    "bg": {
+      "default": {
+        "value": "{dark.bg.default}",
+        "type": "color"
+      }
+    }
+  }
+}

@@ -3,7 +3,6 @@
     "id": "15c033139b6eef47637df2b591efaca8b623f334",
     "name": "Dark theme",
     "selectedTokenSets": {
-      "web components": "enabled",
       "documentation": "enabled",
       "01_Core/spacing": "disabled",
       "01_Core/colors": "disabled",
@@ -27,7 +26,6 @@
     "id": "f80071ed9c4ec90477c0739e4afe6b714e74bbd8",
     "name": "Light theme",
     "selectedTokenSets": {
-      "web components": "enabled",
       "documentation": "enabled",
       "01_Core/spacing": "disabled",
       "01_Core/colors": "disabled",
