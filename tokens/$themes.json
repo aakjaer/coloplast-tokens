@@ -3,8 +3,6 @@
     "id": "15c033139b6eef47637df2b591efaca8b623f334",
     "name": "Dark theme",
     "selectedTokenSets": {
-      "light": "enabled",
-      "dark": "enabled",
       "components": "enabled",
       "web components": "enabled",
       "documentation": "enabled",
@@ -14,7 +12,9 @@
       "01_Core/grid": "disabled",
       "03_Comp/dropdown": "disabled",
       "01_Core/shadow": "enabled",
-      "01_Core/radius": "disabled"
+      "01_Core/radius": "disabled",
+      "02_Theme/light": "enabled",
+      "02_Theme/dark": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -22,8 +22,6 @@
     "id": "f80071ed9c4ec90477c0739e4afe6b714e74bbd8",
     "name": "Light theme",
     "selectedTokenSets": {
-      "light": "enabled",
-      "dark": "disabled",
       "web components": "enabled",
       "documentation": "enabled",
       "components": "enabled",
@@ -33,7 +31,9 @@
       "01_Core/grid": "disabled",
       "03_Comp/dropdown": "disabled",
       "01_Core/shadow": "enabled",
-      "01_Core/radius": "disabled"
+      "01_Core/radius": "disabled",
+      "02_Theme/light": "enabled",
+      "02_Theme/dark": "disabled"
     },
     "$figmaStyleReferences": {}
   }
