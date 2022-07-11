@@ -1,1 +1,17 @@
-{}
+{
+  "navbar": {
+    "link": {
+      "primary": {
+        "value": {
+          "fontFamily": "{fontFamilies.headline}",
+          "fontWeight": "{fontWeights.headline.bold}",
+          "lineHeight": "{lineHeights.body}",
+          "fontSize": "{fontSizes.350}",
+          "letterSpacing": ""
+        },
+        "type": "typography",
+        "description": "1st level menu links in the navigation bar"
+      }
+    }
+  }
+}
