@@ -8,8 +8,13 @@
       "components": "enabled",
       "web components": "enabled",
       "documentation": "enabled",
-      "01_Core/core": "enabled",
-      "01_Core/spacing": "disabled"
+      "01_Core/spacing": "disabled",
+      "01_Core/colors": "disabled",
+      "01_Core/typography": "disabled",
+      "01_Core/grid": "disabled",
+      "03_Comp/dropdown": "disabled",
+      "01_Core/shadow": "enabled",
+      "01_Core/radius": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -22,8 +27,13 @@
       "web components": "enabled",
       "documentation": "enabled",
       "components": "enabled",
-      "01_Core/core": "enabled",
-      "01_Core/spacing": "disabled"
+      "01_Core/spacing": "disabled",
+      "01_Core/colors": "disabled",
+      "01_Core/typography": "disabled",
+      "01_Core/grid": "disabled",
+      "03_Comp/dropdown": "disabled",
+      "01_Core/shadow": "enabled",
+      "01_Core/radius": "disabled"
     },
     "$figmaStyleReferences": {}
   }
