@@ -1,0 +1,24 @@
+{
+  "card": {
+    "padding": {
+      "x": {
+        "value": "{space.static.300}",
+        "type": "spacing"
+      },
+      "y": {
+        "value": "{space.static.300}",
+        "type": "spacing"
+      }
+    },
+    "md": {
+      "card-lg": {
+        "padding": {
+          "x": {
+            "value": "{space.static.400}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  }
+}

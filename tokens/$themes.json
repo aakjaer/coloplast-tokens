@@ -3,7 +3,6 @@
     "id": "15c033139b6eef47637df2b591efaca8b623f334",
     "name": "Dark theme",
     "selectedTokenSets": {
-      "components": "enabled",
       "web components": "enabled",
       "documentation": "enabled",
       "01_Core/spacing": "disabled",
@@ -14,7 +13,13 @@
       "01_Core/shadow": "enabled",
       "01_Core/radius": "disabled",
       "02_Theme/light": "enabled",
-      "02_Theme/dark": "enabled"
+      "02_Theme/dark": "enabled",
+      "03_Comp/footer": "disabled",
+      "03_Comp/accordion": "disabled",
+      "03_Comp/badge": "disabled",
+      "03_Comp/button": "disabled",
+      "03_Comp/card": "disabled",
+      "03_Comp/navbar": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -24,7 +29,6 @@
     "selectedTokenSets": {
       "web components": "enabled",
       "documentation": "enabled",
-      "components": "enabled",
       "01_Core/spacing": "disabled",
       "01_Core/colors": "disabled",
       "01_Core/typography": "disabled",
@@ -33,7 +37,13 @@
       "01_Core/shadow": "enabled",
       "01_Core/radius": "disabled",
       "02_Theme/light": "enabled",
-      "02_Theme/dark": "disabled"
+      "02_Theme/dark": "disabled",
+      "03_Comp/footer": "disabled",
+      "03_Comp/accordion": "disabled",
+      "03_Comp/badge": "disabled",
+      "03_Comp/button": "disabled",
+      "03_Comp/card": "disabled",
+      "03_Comp/navbar": "disabled"
     },
     "$figmaStyleReferences": {}
   }
