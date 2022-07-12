@@ -1,1 +1,30 @@
-{}
+{
+  "alert": {
+    "padding": {
+      "x": {
+        "value": "{space.static.250}",
+        "type": "spacing"
+      },
+      "y": {
+        "value": "{space.static.250}",
+        "type": "spacing"
+      }
+    },
+    "border-radius": {
+      "value": "{borderRadius.md}",
+      "type": "borderRadius"
+    },
+    "item-spacing": {
+      "value": "{space.static.200}",
+      "type": "spacing"
+    },
+    "default": {
+      "value": {
+        "horizontalPadding": "{alert.padding.x}",
+        "verticalPadding": "{alert.padding.y}",
+        "itemSpacing": "{alert.item-spacing}"
+      },
+      "type": "composition"
+    }
+  }
+}
