@@ -11,6 +11,10 @@
     "lg": {
       "value": "12px",
       "type": "borderRadius"
+    },
+    "xs": {
+      "value": "2px",
+      "type": "borderRadius"
     }
   }
 }
