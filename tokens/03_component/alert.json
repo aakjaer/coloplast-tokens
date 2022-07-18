@@ -11,7 +11,7 @@
       }
     },
     "border-radius": {
-      "value": "{borderRadius.md}",
+      "value": "{borderRadius.lg}",
       "type": "borderRadius"
     },
     "item-spacing": {
@@ -22,7 +22,18 @@
       "value": {
         "horizontalPadding": "{alert.padding.x}",
         "verticalPadding": "{alert.padding.y}",
-        "itemSpacing": "{alert.item-spacing}"
+        "itemSpacing": "{alert.item-spacing}",
+        "borderRadius": "{alert.border-radius}"
+      },
+      "type": "composition"
+    },
+    "dismissable": {
+      "value": {
+        "verticalPadding": "{alert.padding.y}",
+        "itemSpacing": "{alert.item-spacing}",
+        "borderRadius": "{alert.border-radius}",
+        "paddingLeft": "{alert.padding.x}",
+        "paddingRight": "{space.static.600}"
       },
       "type": "composition"
     }

@@ -97,6 +97,10 @@
         "value": "{colors.turquoise.200}",
         "type": "color"
       },
+      "brand-subtle": {
+        "value": "{colors.turquoise.50}",
+        "type": "color"
+      },
       "selected": {
         "value": "{light.bg.brand}",
         "type": "color"
@@ -148,6 +152,10 @@
       "success": {
         "value": "{colors.green.500}",
         "type": "color"
+      },
+      "attention": {
+        "value": "{colors.yellow.400}",
+        "type": "color"
       }
     },
     "button": {
@@ -197,11 +205,11 @@
           "type": "color"
         },
         "hover": {
-          "value": "{colors.turquoise.100}",
+          "value": "{colors.turquoise.50}",
           "type": "color"
         },
         "focus": {
-          "value": "{colors.turquoise.100}",
+          "value": "{colors.turquoise.50}",
           "type": "color"
         },
         "active": {

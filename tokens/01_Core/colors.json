@@ -11,29 +11,29 @@
     },
     "turquoise": {
       "50": {
-        "value": "#E0F5F9",
+        "value": "#e8f7fa",
         "type": "color",
-        "description": " 10%"
+        "description": " "
       },
       "100": {
-        "value": "#CCECF3",
+        "value": "#d4eff5",
         "type": "color",
-        "description": "20%"
+        "description": " "
       },
       "200": {
-        "value": "#B3E3ED",
+        "value": "#aae1ec",
         "type": "color",
-        "description": "30%"
+        "description": " "
       },
       "300": {
-        "value": "#80D0DE",
+        "value": "#7ad3e1",
         "type": "color",
         "description": "50%"
       },
       "400": {
-        "value": "#4CBECF",
+        "value": "#4cbcd1",
         "type": "color",
-        "description": "70%"
+        "description": " "
       },
       "500": {
         "value": "#00A2BA",
@@ -46,22 +46,22 @@
         "description": "+6"
       },
       "700": {
-        "value": "#007385",
+        "value": "#006a7a",
         "type": "color",
         "description": "+10"
       },
       "800": {
-        "value": "#006170",
+        "value": "#00515d",
         "type": "color",
         "description": "+14"
       },
       "900": {
-        "value": "#00505C",
+        "value": "#003a44",
         "type": "color",
         "description": "+18 "
       },
       "950": {
-        "value": "#004752",
+        "value": "#002e36",
         "type": "color",
         "description": " +20"
       }

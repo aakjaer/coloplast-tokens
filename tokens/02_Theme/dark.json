@@ -79,6 +79,14 @@
         "value": "{colors.turquoise.500}",
         "type": "color"
       },
+      "brand-muted": {
+        "value": "{colors.turquoise.800}",
+        "type": "color"
+      },
+      "brand-subtle": {
+        "value": "{colors.turquoise.950}",
+        "type": "color"
+      },
       "selected": {
         "value": "{colors.turquoise.500}",
         "type": "color"
