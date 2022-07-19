@@ -84,7 +84,7 @@
         "type": "color"
       },
       "brand-subtle": {
-        "value": "{colors.turquoise.950}",
+        "value": "{colors.turquoise.900}",
         "type": "color"
       },
       "selected": {
