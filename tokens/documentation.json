@@ -26,6 +26,17 @@
         "type": "color",
         "description": "Used to identify spacer components via the \"Selection colors\" panel"
       }
+    },
+    "example": {
+      "default": {
+        "value": {
+          "border": "{light.border.default}",
+          "borderRadius": "{alert.border-radius}",
+          "verticalPadding": "{space.static.400}",
+          "horizontalPadding": "{space.static.400}"
+        },
+        "type": "composition"
+      }
     }
   }
 }

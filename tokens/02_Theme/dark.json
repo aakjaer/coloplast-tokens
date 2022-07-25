@@ -79,6 +79,10 @@
         "value": "{colors.turquoise.500}",
         "type": "color"
       },
+      "brand-strong": {
+        "value": "{colors.turquoise.300}",
+        "type": "color"
+      },
       "brand-muted": {
         "value": "{colors.turquoise.800}",
         "type": "color"
@@ -87,12 +91,8 @@
         "value": "{colors.turquoise.900}",
         "type": "color"
       },
-      "selected": {
-        "value": "{colors.turquoise.500}",
-        "type": "color"
-      },
       "interactive": {
-        "value": "{colors.turquoise.400}",
+        "value": "{colors.turquoise.500}",
         "type": "color"
       },
       "danger": {
@@ -156,7 +156,7 @@
     },
     "focus": {
       "default": {
-        "value": "{colors.turquoise.600}",
+        "value": "rgba({colors.turquoise.600}, 0.5)",
         "type": "color"
       },
       "danger": {
