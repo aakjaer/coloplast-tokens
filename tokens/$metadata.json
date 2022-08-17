@@ -1,0 +1,16 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "theme/dark",
+    "theme/light",
+    "component/accordion",
+    "component/alert",
+    "component/badge",
+    "component/button",
+    "component/card",
+    "component/dropdown",
+    "component/footer",
+    "component/navbar",
+    "documentation"
+  ]
+}
