@@ -2571,5 +2571,13 @@
       "type": "fontSizes",
       "description": "6rem"
     }
+  },
+  "container": {
+    "padding": {
+      "x": {
+        "value": "{space.static.350}",
+        "type": "spacing"
+      }
+    }
   }
 }
