@@ -316,28 +316,6 @@
         "type": "color",
         "description": " "
       }
-    },
-    "special": {
-      "cp-color-tertiary-1-500": {
-        "value": "#28579e",
-        "type": "color",
-        "description": "Blue"
-      },
-      "cp-color-tertiary-2-500": {
-        "value": "#ff7abf",
-        "type": "color",
-        "description": "Pink"
-      },
-      "cp-color-tertiary-3-500": {
-        "value": "#ff6900",
-        "type": "color",
-        "description": "Orange"
-      },
-      "cp-color-tertiary-4-500": {
-        "value": "#7474c1",
-        "type": "color",
-        "description": "Purple"
-      }
     }
   },
   "grid-breakpoints": {
