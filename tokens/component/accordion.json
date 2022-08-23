@@ -1,58 +1,29 @@
 {
   "accordion": {
     "header": {
-      "padding": {
-        "left": {
-          "value": "{space.static.250}",
-          "type": "spacing"
-        },
-        "right": {
-          "value": "{space.static.250}",
-          "type": "spacing"
-        },
-        "top": {
-          "value": "{space.static.250}",
-          "type": "spacing"
-        },
-        "bottom": {
-          "value": "{space.static.250}",
-          "type": "spacing"
-        }
+      "value": {
+        "verticalPadding": "{space.static.250}",
+        "horizontalPadding": "{space.static.250}",
+        "itemSpacing": "{space.static.200}"
       },
-      "gap": {
-        "value": "{space.static.200}",
-        "type": "spacing"
-      }
+      "type": "composition"
     },
     "body": {
-      "padding": {
-        "top": {
-          "value": "0",
-          "type": "spacing"
-        },
-        "right": {
-          "value": "{space.static.250}",
-          "type": "spacing"
-        },
-        "bottom": {
-          "value": "{space.static.300}",
-          "type": "spacing"
-        },
-        "left": {
-          "value": "{space.static.250}",
-          "type": "spacing"
-        }
-      }
+      "value": {
+        "paddingTop": "0",
+        "paddingBottom": "{space.static.300}",
+        "horizontalPadding": "{space.static.250}"
+      },
+      "type": "composition"
     },
-    "md": {
-      "body": {
-        "padding": {
-          "left": {
-            "value": "{space.static.550}",
-            "type": "spacing"
-          }
-        }
-      }
+    "body-indent": {
+      "value": {
+        "paddingTop": "0",
+        "paddingBottom": "{space.static.300}",
+        "paddingRight": "{space.static.250}",
+        "paddingLeft": "{space.static.550}"
+      },
+      "type": "composition"
     }
   }
 }

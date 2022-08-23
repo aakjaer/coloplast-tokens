@@ -3,11 +3,13 @@
     "text": {
       "default": {
         "value": "{colors.grey.800}",
-        "type": "color"
+        "type": "color",
+        "description": "{colors.grey.800}"
       },
       "muted": {
         "value": "{colors.grey.600}",
-        "type": "color"
+        "type": "color",
+        "description": "{colors.grey.600}"
       },
       "subtle": {
         "value": "{colors.grey.500}",
