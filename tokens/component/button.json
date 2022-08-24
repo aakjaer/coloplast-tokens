@@ -123,7 +123,7 @@
           "type": "spacing"
         }
       },
-      "borderRadius": {
+      "border-radius": {
         "sm": {
           "value": "100px",
           "type": "borderRadius"
