@@ -2,28 +2,74 @@
   "accordion": {
     "header": {
       "value": {
-        "verticalPadding": "{space.static.250}",
-        "horizontalPadding": "{space.static.250}",
-        "itemSpacing": "{space.static.200}"
+        "verticalPadding": "{component.accordion.header.padding.y}",
+        "horizontalPadding": "{component.accordion.header.padding.x}",
+        "itemSpacing": "{component.accordion.header.gap}"
       },
       "type": "composition"
     },
     "body": {
       "value": {
         "paddingTop": "0",
-        "paddingBottom": "{space.static.300}",
-        "horizontalPadding": "{space.static.250}"
+        "paddingBottom": "{component.accordion.body.padding.bottom}",
+        "horizontalPadding": "{component.accordion.body.padding.left}"
       },
       "type": "composition"
     },
-    "body-indent": {
+    "body-md": {
       "value": {
         "paddingTop": "0",
-        "paddingBottom": "{space.static.300}",
-        "paddingRight": "{space.static.250}",
-        "paddingLeft": "{space.static.550}"
+        "paddingBottom": "{component.accordion.body.padding.bottom}",
+        "paddingRight": "{component.accordion.body.padding.right}",
+        "paddingLeft": "{component.accordion.body.padding.md.left}"
       },
       "type": "composition"
+    }
+  },
+  "component": {
+    "accordion": {
+      "header": {
+        "padding": {
+          "x": {
+            "value": "{space.static.250}",
+            "type": "spacing"
+          },
+          "y": {
+            "value": "{space.static.250}",
+            "type": "spacing"
+          }
+        },
+        "gap": {
+          "value": "{space.static.200}",
+          "type": "spacing"
+        }
+      },
+      "body": {
+        "padding": {
+          "top": {
+            "value": "0",
+            "type": "spacing"
+          },
+          "right": {
+            "value": "{space.static.250}",
+            "type": "spacing"
+          },
+          "bottom": {
+            "value": "{space.static.300}",
+            "type": "spacing"
+          },
+          "left": {
+            "value": "{space.static.250}",
+            "type": "spacing"
+          },
+          "md": {
+            "left": {
+              "value": "{space.static.550}",
+              "type": "spacing"
+            }
+          }
+        }
+      }
     }
   }
 }
