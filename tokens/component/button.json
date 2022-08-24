@@ -1,61 +1,141 @@
 {
-  "button": {
-    "padding": {
-      "y": {
+  "component": {
+    "button": {
+      "color": {
+        "disabled": {
+          "value": "{color.grey.100}",
+          "type": "color"
+        },
+        "primary": {
+          "default": {
+            "value": "{color.turquoise.500}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.turquoise.600}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{color.turquoise.500}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.turquoise.700}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "default": {
+            "value": "{color.white}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.turquoise.100}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{color.turquoise.100}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.turquoise.200}",
+            "type": "color"
+          }
+        },
+        "tertiary": {
+          "default": {
+            "value": "{color.grey.100}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.turquoise.50}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{color.turquoise.50}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.turquoise.200}",
+            "type": "color"
+          }
+        }
+      },
+      "danger": {
+        "default": {
+          "value": "{color.red.500}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{color.red.600}",
+          "type": "color"
+        },
+        "focus": {
+          "value": "{component.button.danger.default}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{color.red.700}",
+          "type": "color"
+        }
+      },
+      "padding": {
+        "y": {
+          "sm": {
+            "value": "6px",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "8px",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "14px",
+            "type": "spacing"
+          }
+        },
+        "x": {
+          "sm": {
+            "value": "24px",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "32px",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "40px",
+            "type": "spacing"
+          }
+        }
+      },
+      "gap": {
         "sm": {
-          "value": "6px",
+          "value": "{space.static.200}",
           "type": "spacing"
         },
         "md": {
-          "value": "8px",
+          "value": "{space.static.250}",
           "type": "spacing"
         },
         "lg": {
-          "value": "14px",
+          "value": "{space.static.300}",
           "type": "spacing"
         }
       },
-      "x": {
+      "borderRadius": {
         "sm": {
-          "value": "24px",
-          "type": "spacing"
+          "value": "100px",
+          "type": "borderRadius"
         },
         "md": {
-          "value": "32px",
-          "type": "spacing"
+          "value": "100px",
+          "type": "borderRadius"
         },
         "lg": {
-          "value": "40px",
-          "type": "spacing"
+          "value": "100px",
+          "type": "borderRadius"
         }
-      }
-    },
-    "gap": {
-      "sm": {
-        "value": "{space.static.200}",
-        "type": "spacing"
-      },
-      "md": {
-        "value": "{space.static.250}",
-        "type": "spacing"
-      },
-      "lg": {
-        "value": "{space.static.300}",
-        "type": "spacing"
-      }
-    },
-    "borderRadius": {
-      "sm": {
-        "value": "100px",
-        "type": "borderRadius"
-      },
-      "md": {
-        "value": "{button.borderRadius.sm}",
-        "type": "borderRadius"
-      },
-      "lg": {
-        "value": "{button.borderRadius.sm}",
-        "type": "borderRadius"
       }
     }
   }
