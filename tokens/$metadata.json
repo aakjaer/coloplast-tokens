@@ -1,6 +1,6 @@
 {
   "tokenSetOrder": [
-    "core",
+    "base",
     "theme/light",
     "theme/dark",
     "component/accordion",
