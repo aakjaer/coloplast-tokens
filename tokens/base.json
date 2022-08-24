@@ -264,23 +264,27 @@
       "50": {
         "value": "#FEF3F5",
         "type": "color",
-        "description": " "
+        "description": "95% tint"
       },
       "100": {
         "value": "#F9CFD8",
-        "type": "color"
+        "type": "color",
+        "description": "80% tint"
       },
       "200": {
         "value": "#F39FB0",
-        "type": "color"
+        "type": "color",
+        "description": "60% tint"
       },
       "300": {
         "value": "#EE6F89",
-        "type": "color"
+        "type": "color",
+        "description": "40% tint"
       },
       "400": {
         "value": "#e83f61",
-        "type": "color"
+        "type": "color",
+        "description": "20% tint"
       },
       "500": {
         "value": "#E20F3A",
@@ -290,19 +294,22 @@
       "600": {
         "value": "#CE0D35",
         "type": "color",
-        "description": " "
+        "description": "20% shade"
       },
       "700": {
         "value": "#C00C31",
-        "type": "color"
+        "type": "color",
+        "description": "40% shade"
       },
       "800": {
         "value": "#B5354C",
-        "type": "color"
+        "type": "color",
+        "description": "60% shade"
       },
       "900": {
         "value": "#94354C",
-        "type": "color"
+        "type": "color",
+        "description": "80% shade"
       },
       "950": {
         "value": "#742A3C",
