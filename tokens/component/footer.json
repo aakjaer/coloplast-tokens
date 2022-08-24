@@ -2,7 +2,7 @@
   "footer": {
     "bg": {
       "default": {
-        "value": "{dark.bg.default}",
+        "value": "{light.bg.inverse}",
         "type": "color"
       }
     }

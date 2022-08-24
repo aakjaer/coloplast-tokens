@@ -278,7 +278,7 @@
         "type": "color"
       },
       "hover": {
-        "value": "{color.turquoise.600}",
+        "value": "{color.turquoise.700}",
         "type": "color"
       }
     }
