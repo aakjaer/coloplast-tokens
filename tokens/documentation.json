@@ -1,41 +1,32 @@
 {
-  "documentation": {
-    "gradient": {
-      "light to dark - horizontal": {
-        "value": "linear-gradient(90deg, #fff 50%, {dark.bg.default} 50%);",
-        "type": "color"
-      },
-      "light to dark - vertical": {
-        "value": "linear-gradient(180deg, #fff 50%, {dark.bg.default} 50%);",
-        "type": "color"
-      }
-    },
-    "highlight": {
-      "default": {
-        "value": "#8236FF",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "rgba(#7B61FF, 0.15)",
-        "type": "color"
-      }
-    },
-    "spacer": {
-      "default": {
-        "value": "rgba(#FFFFFF, 0)",
-        "type": "color",
-        "description": "Used to identify spacer components via the \"Selection colors\" panel"
-      }
-    },
-    "example": {
-      "default": {
-        "value": {
-          "border": "{light.border.default}",
-          "borderRadius": "{alert.border-radius}",
-          "verticalPadding": "{space.static.400}",
-          "horizontalPadding": "{space.static.400}"
+  "color": {
+    "documentation": {
+      "gradient": {
+        "light to dark - horizontal": {
+          "value": "linear-gradient(90deg, #fff 50%, {dark.bg.default} 50%);",
+          "type": "color"
         },
-        "type": "composition"
+        "light to dark - vertical": {
+          "value": "linear-gradient(180deg, #fff 50%, {dark.bg.default} 50%);",
+          "type": "color"
+        }
+      },
+      "highlight": {
+        "default": {
+          "value": "#8236FF",
+          "type": "color"
+        },
+        "subtle": {
+          "value": "rgba(#7B61FF, 0.15)",
+          "type": "color"
+        }
+      },
+      "spacer": {
+        "default": {
+          "value": "rgba(#FFFFFF, 0)",
+          "type": "color",
+          "description": "Used to identify spacer components via the \"Selection colors\" panel"
+        }
       }
     }
   }
