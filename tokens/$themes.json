@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "fef7d0e01b1f245a4630277821482efb8e67f1e8",
+    "name": "Base",
+    "selectedTokenSets": {
+      "base": "enabled",
+      "documentation": "enabled",
+      "theme/light": "enabled",
+      "theme/dark": "enabled",
+      "component/accordion": "enabled",
+      "component/alert": "enabled",
+      "component/badge": "enabled",
+      "component/breadcrumb": "enabled",
+      "component/button": "enabled",
+      "component/card": "enabled",
+      "component/container": "enabled",
+      "component/dropdown": "enabled",
+      "component/footer": "enabled",
+      "component/navbar": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

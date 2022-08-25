@@ -6,6 +6,7 @@
     "component/accordion",
     "component/alert",
     "component/badge",
+    "component/breadcrumb",
     "component/button",
     "component/card",
     "component/container",
