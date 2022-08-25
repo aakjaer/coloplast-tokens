@@ -1,18 +1,20 @@
 {
-  "badge": {
-    "padding": {
-      "x": {
-        "value": "{space.static.200}",
-        "type": "spacing"
+  "component": {
+    "badge": {
+      "padding": {
+        "x": {
+          "value": "{space.static.200}",
+          "type": "spacing"
+        },
+        "y": {
+          "value": "{space.static.100}",
+          "type": "spacing"
+        }
       },
-      "y": {
-        "value": "{space.static.100}",
-        "type": "spacing"
+      "border-radius": {
+        "value": "{borderRadius.md}",
+        "type": "borderRadius"
       }
-    },
-    "border-radius": {
-      "value": "{borderRadius.md}",
-      "type": "borderRadius"
     }
   }
 }

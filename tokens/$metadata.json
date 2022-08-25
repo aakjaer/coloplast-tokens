@@ -8,6 +8,7 @@
     "component/badge",
     "component/button",
     "component/card",
+    "component/container",
     "component/dropdown",
     "component/footer",
     "component/navbar",

@@ -350,28 +350,6 @@
       "description": "Larger than 1400px"
     }
   },
-  "container-max-width": {
-    "sm": {
-      "value": "540px",
-      "type": "sizing"
-    },
-    "md": {
-      "value": "720px",
-      "type": "sizing"
-    },
-    "lg": {
-      "value": "960px",
-      "type": "sizing"
-    },
-    "xl": {
-      "value": "1140px",
-      "type": "sizing"
-    },
-    "xxl": {
-      "value": "1320px",
-      "type": "sizing"
-    }
-  },
   "borderRadius": {
     "sm": {
       "value": "4px",
@@ -2550,14 +2528,6 @@
       "value": "96px",
       "type": "fontSizes",
       "description": "6rem"
-    }
-  },
-  "container": {
-    "padding": {
-      "x": {
-        "value": "{space.static.350}",
-        "type": "spacing"
-      }
     }
   }
 }
