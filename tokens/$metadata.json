@@ -3,6 +3,7 @@
     "core/core",
     "core/color",
     "core/semantic-color",
+    "core/typography",
     "theme/dark",
     "component/accordion",
     "component/alert",
