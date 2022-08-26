@@ -3,71 +3,71 @@
     "button": {
       "color": {
         "disabled": {
-          "value": "{color.grey.100}",
+          "value": "{color.palette.grey.100}",
           "type": "color"
         },
         "primary": {
           "default": {
-            "value": "{color.turquoise.500}",
+            "value": "{color.palette.turquoise.500}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.turquoise.600}",
+            "value": "{color.palette.turquoise.600}",
             "type": "color"
           },
           "focus": {
-            "value": "{color.turquoise.500}",
+            "value": "{color.palette.turquoise.500}",
             "type": "color"
           },
           "active": {
-            "value": "{color.turquoise.700}",
+            "value": "{color.palette.turquoise.700}",
             "type": "color"
           }
         },
         "secondary": {
           "default": {
-            "value": "{color.white}",
+            "value": "{color.palette.white}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.turquoise.100}",
+            "value": "{color.palette.turquoise.100}",
             "type": "color"
           },
           "focus": {
-            "value": "{color.turquoise.100}",
+            "value": "{color.palette.turquoise.100}",
             "type": "color"
           },
           "active": {
-            "value": "{color.turquoise.200}",
+            "value": "{color.palette.turquoise.200}",
             "type": "color"
           }
         },
         "tertiary": {
           "default": {
-            "value": "{color.grey.100}",
+            "value": "{color.palette.grey.100}",
             "type": "color"
           },
           "hover": {
-            "value": "{color.turquoise.50}",
+            "value": "{color.palette.turquoise.50}",
             "type": "color"
           },
           "focus": {
-            "value": "{color.turquoise.50}",
+            "value": "{color.palette.turquoise.50}",
             "type": "color"
           },
           "active": {
-            "value": "{color.turquoise.200}",
+            "value": "{color.palette.turquoise.200}",
             "type": "color"
           }
         }
       },
       "danger": {
         "default": {
-          "value": "{color.red.500}",
+          "value": "{color.palette.red.500}",
           "type": "color"
         },
         "hover": {
-          "value": "{color.red.600}",
+          "value": "{color.palette.red.600}",
           "type": "color"
         },
         "focus": {
@@ -75,7 +75,7 @@
           "type": "color"
         },
         "active": {
-          "value": "{color.red.700}",
+          "value": "{color.palette.red.700}",
           "type": "color"
         }
       },
