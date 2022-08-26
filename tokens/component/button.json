@@ -2,76 +2,78 @@
   "component": {
     "button": {
       "color": {
-        "primary": {
-          "default": {
-            "value": "{color.palette.turquoise.500}",
-            "type": "color"
+        "bg": {
+          "primary": {
+            "default": {
+              "value": "{color.palette.turquoise.500}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{color.palette.turquoise.600}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{color.palette.turquoise.500}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{color.palette.turquoise.700}",
+              "type": "color"
+            }
           },
-          "hover": {
-            "value": "{color.palette.turquoise.600}",
-            "type": "color"
+          "secondary": {
+            "default": {
+              "value": "{color.palette.white}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{color.palette.turquoise.100}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{color.palette.turquoise.100}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{color.palette.turquoise.200}",
+              "type": "color"
+            }
           },
-          "focus": {
-            "value": "{color.palette.turquoise.500}",
-            "type": "color"
+          "tertiary": {
+            "default": {
+              "value": "{color.palette.grey.100}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{color.palette.turquoise.50}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{color.palette.turquoise.50}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{color.palette.turquoise.200}",
+              "type": "color"
+            }
           },
-          "active": {
-            "value": "{color.palette.turquoise.700}",
-            "type": "color"
-          }
-        },
-        "secondary": {
-          "default": {
-            "value": "{color.palette.white}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{color.palette.turquoise.100}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{color.palette.turquoise.100}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{color.palette.turquoise.200}",
-            "type": "color"
-          }
-        },
-        "tertiary": {
-          "default": {
-            "value": "{color.palette.grey.100}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{color.palette.turquoise.50}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{color.palette.turquoise.50}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{color.palette.turquoise.200}",
-            "type": "color"
-          }
-        },
-        "danger": {
-          "default": {
-            "value": "{color.palette.red.500}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{color.palette.red.600}",
-            "type": "color"
-          },
-          "focus": {
-            "value": "{component.button.color.danger.default}",
-            "type": "color"
-          },
-          "active": {
-            "value": "{color.palette.red.700}",
-            "type": "color"
+          "danger": {
+            "default": {
+              "value": "{color.palette.red.500}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{color.palette.red.600}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{component.button.color.bg.danger.default}",
+              "type": "color"
+            },
+            "active": {
+              "value": "{color.palette.red.700}",
+              "type": "color"
+            }
           }
         }
       },
