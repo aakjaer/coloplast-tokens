@@ -1,5 +1,5 @@
 {
-  "light": {
+  "color": {
     "text": {
       "default": {
         "value": "{color.grey.800}",
@@ -16,15 +16,15 @@
         "type": "color"
       },
       "hover": {
-        "value": "{light.text.default}",
+        "value": "{color.text.default}",
         "type": "color"
       },
       "placeholder": {
-        "value": "{light.text.subtle}",
+        "value": "{color.text.subtle}",
         "type": "color"
       },
       "disabled": {
-        "value": "rgba({light.text.default}, 0.4)",
+        "value": "rgba({color.text.default}, 0.4)",
         "type": "color"
       },
       "on-disabled": {
@@ -178,19 +178,19 @@
     },
     "icon": {
       "default": {
-        "value": "{light.text.default}",
+        "value": "{color.text.default}",
         "type": "color"
       },
       "brand": {
-        "value": "{light.text.brand}",
+        "value": "{color.text.brand}",
         "type": "color"
       },
       "inverse": {
-        "value": "{light.text.inverse}",
+        "value": "{color.text.inverse}",
         "type": "color"
       },
       "disabled": {
-        "value": "{light.text.disabled}",
+        "value": "{color.text.disabled}",
         "type": "color"
       }
     },
@@ -218,12 +218,5 @@
       "value": "8px",
       "type": "borderRadius"
     }
-  },
-  "dropdown": {
-    "value": {
-      "borderRadius": "{borderRadius.md}",
-      "fill": "{light.bg.surface}"
-    },
-    "type": "composition"
   }
 }

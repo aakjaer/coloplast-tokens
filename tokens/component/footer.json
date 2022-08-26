@@ -1,9 +1,11 @@
 {
-  "footer": {
-    "bg": {
-      "default": {
-        "value": "{light.bg.inverse}",
-        "type": "color"
+  "component": {
+    "footer": {
+      "bg": {
+        "default": {
+          "value": "{light.bg.inverse}",
+          "type": "color"
+        }
       }
     }
   }

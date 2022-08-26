@@ -1,11 +1,30 @@
 [
   {
-    "id": "fef7d0e01b1f245a4630277821482efb8e67f1e8",
-    "name": "Base",
+    "id": "a0862647081553c552f9b95ad35dd6f44a7ee25e",
+    "name": "core",
     "selectedTokenSets": {
       "base": "enabled",
+      "theme/dark": "disabled",
+      "component/accordion": "enabled",
+      "component/alert": "enabled",
+      "component/badge": "enabled",
+      "component/breadcrumb": "enabled",
+      "component/button": "enabled",
+      "component/card": "enabled",
+      "component/container": "enabled",
+      "component/dropdown": "enabled",
+      "component/footer": "enabled",
+      "component/navbar": "enabled",
       "documentation": "enabled",
-      "theme/light": "enabled",
+      "theme": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "0b8ec5ca26908faa89bbf7b87057a5da19c12df2",
+    "name": "dark",
+    "selectedTokenSets": {
+      "base": "enabled",
       "theme/dark": "enabled",
       "component/accordion": "enabled",
       "component/alert": "enabled",
@@ -16,7 +35,9 @@
       "component/container": "enabled",
       "component/dropdown": "enabled",
       "component/footer": "enabled",
-      "component/navbar": "enabled"
+      "component/navbar": "enabled",
+      "documentation": "enabled",
+      "theme": "enabled"
     },
     "$figmaStyleReferences": {}
   }

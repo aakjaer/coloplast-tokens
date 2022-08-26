@@ -1,5 +1,5 @@
 {
-  "dark": {
+  "color": {
     "text": {
       "default": {
         "value": "{color.white}",
@@ -14,7 +14,7 @@
         "type": "color"
       },
       "placeholder": {
-        "value": "{dark.text.subtle}",
+        "value": "{color.text.subtle}",
         "type": "color"
       },
       "disabled": {
@@ -141,7 +141,7 @@
           "type": "color"
         },
         "focus": {
-          "value": "{dark.button.tertiary.hover}",
+          "value": "{color.button.tertiary.hover}",
           "type": "color"
         },
         "active": {
@@ -149,7 +149,7 @@
           "type": "color"
         },
         "disabled": {
-          "value": "{dark.button.tertiary.default}",
+          "value": "{color.button.tertiary.default}",
           "type": "color"
         }
       }
@@ -170,19 +170,19 @@
     },
     "icon": {
       "default": {
-        "value": "{dark.text.default}",
+        "value": "{color.text.default}",
         "type": "color"
       },
       "brand": {
-        "value": "{dark.bg.brand}",
+        "value": "{color.bg.brand}",
         "type": "color"
       },
       "inverse": {
-        "value": "{dark.text.inverse}",
+        "value": "{color.text.inverse}",
         "type": "color"
       },
       "disabled": {
-        "value": "rgba({dark.text.default}, 0.5)",
+        "value": "rgba({color.text.default}, 0.5)",
         "type": "color"
       }
     },
