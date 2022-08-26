@@ -1,28 +1,5 @@
 [
   {
-    "id": "0b8ec5ca26908faa89bbf7b87057a5da19c12df2",
-    "name": "dark",
-    "selectedTokenSets": {
-      "component/accordion": "enabled",
-      "component/alert": "enabled",
-      "component/badge": "enabled",
-      "component/breadcrumb": "enabled",
-      "component/button": "enabled",
-      "component/card": "enabled",
-      "component/container": "enabled",
-      "component/dropdown": "enabled",
-      "component/footer": "enabled",
-      "component/navbar": "enabled",
-      "documentation": "enabled",
-      "theme/dark": "enabled",
-      "core/core": "enabled",
-      "core/color": "disabled",
-      "core/semantic-color": "enabled",
-      "core/typography": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "a0862647081553c552f9b95ad35dd6f44a7ee25e",
     "name": "light",
     "selectedTokenSets": {
@@ -177,5 +154,28 @@
       "color.red.900": "S:f9c079986c238a448e5b9551b684ae242225f9cd,",
       "color.red.950": "S:6878dda07ad8b89eb82b578318e4023b58d3f498,"
     }
+  },
+  {
+    "id": "0b8ec5ca26908faa89bbf7b87057a5da19c12df2",
+    "name": "dark",
+    "selectedTokenSets": {
+      "component/accordion": "enabled",
+      "component/alert": "enabled",
+      "component/badge": "enabled",
+      "component/breadcrumb": "enabled",
+      "component/button": "enabled",
+      "component/card": "enabled",
+      "component/container": "enabled",
+      "component/dropdown": "enabled",
+      "component/footer": "enabled",
+      "component/navbar": "enabled",
+      "documentation": "enabled",
+      "theme/dark": "enabled",
+      "core/core": "enabled",
+      "core/color": "enabled",
+      "core/semantic-color": "enabled",
+      "core/typography": "disabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
