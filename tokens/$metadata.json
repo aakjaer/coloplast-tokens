@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
-    "base",
+    "core",
+    "dark",
     "theme",
-    "theme/dark",
     "component/accordion",
     "component/alert",
     "component/badge",
