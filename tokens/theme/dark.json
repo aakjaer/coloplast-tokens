@@ -147,10 +147,6 @@
         "active": {
           "value": "{color.palette.turquoise.700}",
           "type": "color"
-        },
-        "disabled": {
-          "value": "{color.button.tertiary.default}",
-          "type": "color"
         }
       }
     },

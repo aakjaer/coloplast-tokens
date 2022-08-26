@@ -2,10 +2,6 @@
   "component": {
     "button": {
       "color": {
-        "disabled": {
-          "value": "{color.palette.grey.100}",
-          "type": "color"
-        },
         "primary": {
           "default": {
             "value": "{color.palette.turquoise.500}",
