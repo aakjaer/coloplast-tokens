@@ -59,24 +59,24 @@
             "value": "{color.palette.turquoise.200}",
             "type": "color"
           }
-        }
-      },
-      "danger": {
-        "default": {
-          "value": "{color.palette.red.500}",
-          "type": "color"
         },
-        "hover": {
-          "value": "{color.palette.red.600}",
-          "type": "color"
-        },
-        "focus": {
-          "value": "{component.button.danger.default}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{color.palette.red.700}",
-          "type": "color"
+        "danger": {
+          "default": {
+            "value": "{color.palette.red.500}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{color.palette.red.600}",
+            "type": "color"
+          },
+          "focus": {
+            "value": "{component.button.color.danger.default}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{color.palette.red.700}",
+            "type": "color"
+          }
         }
       },
       "padding": {
