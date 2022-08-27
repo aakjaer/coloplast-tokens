@@ -13,11 +13,11 @@
       },
       "highlight": {
         "default": {
-          "value": "#8236FF",
+          "value": "#FA0080",
           "type": "color"
         },
         "subtle": {
-          "value": "rgba(#7B61FF, 0.15)",
+          "value": "rgba({color.documentation.highlight.default}, 0.15)",
           "type": "color"
         }
       },
