@@ -15,10 +15,9 @@
       "component/navbar": "enabled",
       "documentation": "enabled",
       "theme/dark": "disabled",
-      "core/core": "enabled",
-      "core/color": "enabled",
-      "core/typography": "enabled",
-      "semantic/color": "enabled"
+      "semantic/color": "enabled",
+      "core": "enabled",
+      "semantic/text": "enabled"
     },
     "$figmaStyleReferences": {
       "color.documentation.gradient.light to dark - horizontal": "S:2f33616ad85ea3bf7581e43779f341e1cd5b1a18,",
@@ -171,10 +170,9 @@
       "component/navbar": "enabled",
       "documentation": "enabled",
       "theme/dark": "enabled",
-      "core/core": "enabled",
-      "core/color": "enabled",
-      "core/typography": "disabled",
-      "semantic/color": "enabled"
+      "semantic/color": "enabled",
+      "core": "enabled",
+      "semantic/text": "enabled"
     },
     "$figmaStyleReferences": {}
   }
