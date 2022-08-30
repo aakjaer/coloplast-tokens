@@ -1,16 +1,18 @@
 {
-  "navbar": {
-    "link": {
-      "primary": {
-        "value": {
-          "fontFamily": "{font-family.headline}",
-          "fontWeight": "{font-weight.headline.bold}",
-          "lineHeight": "{line-height.body}",
-          "fontSize": "{font-size.350}",
-          "letterSpacing": ""
-        },
-        "type": "typography",
-        "description": "1st level menu links in the navigation bar"
+  "component": {
+    "navbar": {
+      "link": {
+        "primary": {
+          "value": {
+            "fontFamily": "{font-family.headline}",
+            "fontWeight": "{font-weight.headline.bold}",
+            "lineHeight": "{line-height.body}",
+            "fontSize": "{font-size.350}",
+            "letterSpacing": ""
+          },
+          "type": "typography",
+          "description": "1st level menu links in the navigation bar"
+        }
       }
     }
   }
