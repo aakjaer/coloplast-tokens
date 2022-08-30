@@ -3,10 +3,10 @@
     "link": {
       "primary": {
         "value": {
-          "fontFamily": "{fontFamilies.headline}",
-          "fontWeight": "{fontWeights.headline.bold}",
-          "lineHeight": "{lineHeights.body}",
-          "fontSize": "{fontSizes.350}",
+          "fontFamily": "{text.fontFamilies.headline}",
+          "fontWeight": "{text.fontWeights.headline.bold}",
+          "lineHeight": "{text.lineHeights.body}",
+          "fontSize": "{text.fontSizes.350}",
           "letterSpacing": ""
         },
         "type": "typography",

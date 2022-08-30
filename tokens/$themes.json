@@ -17,8 +17,8 @@
       "theme/dark": "disabled",
       "core/core": "enabled",
       "core/color": "enabled",
-      "core/semantic-color": "enabled",
-      "core/typography": "enabled"
+      "core/typography": "enabled",
+      "semantic/color": "enabled"
     },
     "$figmaStyleReferences": {
       "color.documentation.gradient.light to dark - horizontal": "S:2f33616ad85ea3bf7581e43779f341e1cd5b1a18,",
@@ -173,8 +173,8 @@
       "theme/dark": "enabled",
       "core/core": "enabled",
       "core/color": "enabled",
-      "core/semantic-color": "enabled",
-      "core/typography": "disabled"
+      "core/typography": "disabled",
+      "semantic/color": "enabled"
     },
     "$figmaStyleReferences": {}
   }
