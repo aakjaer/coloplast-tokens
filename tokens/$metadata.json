@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
     "core",
-    "semantic/text",
     "semantic/color",
+    "semantic/text",
     "theme/dark",
     "component/accordion",
     "component/alert",
