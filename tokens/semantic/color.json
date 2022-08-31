@@ -203,6 +203,14 @@
         "value": "{core.color.turquoise.700}",
         "type": "color"
       }
+    },
+    "actions": {
+      "primary": {
+        "default": {
+          "value": "{core.color.turquoise.500}",
+          "type": "color"
+        }
+      }
     }
   },
   "borderRadius": {
