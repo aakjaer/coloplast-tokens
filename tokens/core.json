@@ -510,6 +510,10 @@
     "lg": {
       "value": "12px",
       "type": "borderRadius"
+    },
+    "round": {
+      "value": "100px",
+      "type": "borderRadius"
     }
   },
   "shadow": {

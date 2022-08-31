@@ -233,34 +233,34 @@
           }
         }
       },
-      "padding": {
-        "y": {
-          "sm": {
-            "value": "6px",
-            "type": "spacing"
-          },
-          "md": {
-            "value": "8px",
-            "type": "spacing"
-          },
-          "lg": {
-            "value": "14px",
-            "type": "spacing"
-          }
+      "sm": {
+        "padding-x": {
+          "value": "24px",
+          "type": "spacing"
         },
-        "x": {
-          "sm": {
-            "value": "24px",
-            "type": "spacing"
-          },
-          "md": {
-            "value": "32px",
-            "type": "spacing"
-          },
-          "lg": {
-            "value": "40px",
-            "type": "spacing"
-          }
+        "padding-y": {
+          "value": "6px",
+          "type": "spacing"
+        }
+      },
+      "md": {
+        "padding-x": {
+          "value": "32px",
+          "type": "spacing"
+        },
+        "padding-y": {
+          "value": "8px",
+          "type": "spacing"
+        }
+      },
+      "lg": {
+        "padding-x": {
+          "value": "40px",
+          "type": "spacing"
+        },
+        "padding-y": {
+          "value": "14px",
+          "type": "spacing"
         }
       },
       "gap": {
@@ -279,15 +279,15 @@
       },
       "border-radius": {
         "sm": {
-          "value": "100px",
+          "value": "{border-radius.round}",
           "type": "borderRadius"
         },
         "md": {
-          "value": "100px",
+          "value": "{border-radius.round}",
           "type": "borderRadius"
         },
         "lg": {
-          "value": "100px",
+          "value": "{border-radius.round}",
           "type": "borderRadius"
         }
       }
