@@ -12,7 +12,7 @@
         }
       },
       "border-radius": {
-        "value": "{borderRadius.md}",
+        "value": "{border-radius.md}",
         "type": "borderRadius"
       }
     }
