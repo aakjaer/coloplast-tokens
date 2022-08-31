@@ -2207,7 +2207,7 @@
       "description": "6rem"
     }
   },
-  "grid-breakpoints": {
+  "breakpoint": {
     "xs": {
       "value": "0",
       "type": "sizing",
