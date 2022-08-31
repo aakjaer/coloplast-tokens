@@ -1,10 +1,6 @@
 {
   "color": {
     "text": {
-      "default": {
-        "value": "{core.color.white}",
-        "type": "color"
-      },
       "muted": {
         "value": "{core.color.grey.200}",
         "type": "color"
@@ -26,7 +22,7 @@
         "type": "color"
       },
       "on-color": {
-        "value": "{core.color.white}",
+        "value": "{core.color.neutral.white}",
         "type": "color"
       },
       "inverse": {
@@ -43,6 +39,10 @@
       },
       "success": {
         "value": "{core.color.green.400}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{core.color.neutral.white}",
         "type": "color"
       }
     },
@@ -130,26 +130,6 @@
         "type": "color"
       }
     },
-    "button": {
-      "tertiary": {
-        "default": {
-          "value": "{core.color.grey.800}",
-          "type": "color"
-        },
-        "hover": {
-          "value": "{core.color.turquoise.900}",
-          "type": "color"
-        },
-        "focus": {
-          "value": "{color.button.tertiary.hover}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{core.color.turquoise.700}",
-          "type": "color"
-        }
-      }
-    },
     "focus": {
       "default": {
         "value": "rgba({core.color.turquoise.600}, 0.5)",
@@ -190,6 +170,50 @@
       "hover": {
         "value": "{core.color.turquoise.300}",
         "type": "color"
+      }
+    },
+    "actions": {
+      "tertiary": {
+        "default": {
+          "bg-color": {
+            "value": "{core.color.grey.800}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{core.color.neutral.white}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "bg-color": {
+            "value": "{core.color.turquoise.900}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{core.color.neutral.white}",
+            "type": "color"
+          }
+        },
+        "focus": {
+          "bg-color": {
+            "value": "{core.color.grey.800}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{core.color.neutral.white}",
+            "type": "color"
+          }
+        },
+        "active": {
+          "bg-color": {
+            "value": "{core.color.turquoise.700}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{core.color.neutral.white}",
+            "type": "color"
+          }
+        }
       }
     }
   }
