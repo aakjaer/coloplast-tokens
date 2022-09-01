@@ -274,7 +274,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "{color.border.default}",
+            "value": "{color.border.muted}",
             "type": "color"
           }
         },
