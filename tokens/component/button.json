@@ -192,7 +192,7 @@
         },
         "hover": {
           "bg-color": {
-            "value": "{color.actions.ghost.default.bg-color}",
+            "value": "{color.actions.ghost.hover.bg-color}",
             "type": "color"
           },
           "text-color": {
@@ -200,7 +200,7 @@
             "type": "color"
           },
           "border-color": {
-            "value": "{color.actions.ghost.default.border-color}",
+            "value": "{color.actions.ghost.hover.border-color}",
             "type": "color"
           }
         },
@@ -289,6 +289,12 @@
         "lg": {
           "value": "{border-radius.round}",
           "type": "borderRadius"
+        }
+      },
+      "opacity": {
+        "disabled": {
+          "value": "{opacity.50}",
+          "type": "opacity"
         }
       }
     }

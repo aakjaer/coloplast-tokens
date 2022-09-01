@@ -182,6 +182,10 @@
           "text-color": {
             "value": "{core.color.neutral.white}",
             "type": "color"
+          },
+          "border-color": {
+            "value": "{core.color.grey.800}",
+            "type": "color"
           }
         },
         "hover": {
@@ -191,6 +195,10 @@
           },
           "text-color": {
             "value": "{core.color.neutral.white}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{core.color.turquoise.900}",
             "type": "color"
           }
         },
@@ -202,6 +210,10 @@
           "text-color": {
             "value": "{core.color.neutral.white}",
             "type": "color"
+          },
+          "border-color": {
+            "value": "{core.color.turquoise.800}",
+            "type": "color"
           }
         },
         "active": {
@@ -211,6 +223,10 @@
           },
           "text-color": {
             "value": "{core.color.neutral.white}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{core.color.turquoise.700}",
             "type": "color"
           }
         }

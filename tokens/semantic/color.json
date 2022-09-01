@@ -424,7 +424,7 @@
         },
         "focus": {
           "bg-color": {
-            "value": "{core.color.turquoise.100}",
+            "value": "{core.color.turquoise.50}",
             "type": "color"
           },
           "text-color": {
