@@ -1,5 +1,27 @@
 {
   "core": {
+    "border-width": {
+      "0": {
+        "value": "0",
+        "type": "borderWidth"
+      },
+      "1": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "2": {
+        "value": "2",
+        "type": "borderWidth"
+      },
+      "3": {
+        "value": "4",
+        "type": "borderWidth"
+      },
+      "4": {
+        "value": "5",
+        "type": "borderWidth"
+      }
+    },
     "color": {
       "neutral": {
         "white": {
@@ -792,6 +814,10 @@
     }
   },
   "opacity": {
+    "0": {
+      "value": "0",
+      "type": "opacity"
+    },
     "5": {
       "value": "5%",
       "type": "opacity"
