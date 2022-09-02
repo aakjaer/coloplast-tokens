@@ -596,7 +596,7 @@
       "type": "opacity"
     }
   },
-  "shadow": {
+  "elevation": {
     "100": {
       "value": {
         "color": "rgba(0,0,0,0.2)",
