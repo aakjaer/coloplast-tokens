@@ -343,6 +343,93 @@
           "description": " "
         }
       }
+    },
+    "size": {
+      "4": {
+        "value": "4px",
+        "type": "sizing",
+        "description": "0.25rem"
+      },
+      "8": {
+        "value": "8px",
+        "type": "sizing",
+        "description": "0.5rem"
+      },
+      "12": {
+        "value": "12px",
+        "type": "sizing",
+        "description": "0.75rem"
+      },
+      "16": {
+        "value": "16px",
+        "type": "sizing",
+        "description": "1rem"
+      },
+      "20": {
+        "value": "20px",
+        "type": "sizing",
+        "description": "1.25rem"
+      },
+      "24": {
+        "value": "24px",
+        "type": "sizing",
+        "description": "1.5rem"
+      },
+      "28": {
+        "value": "28px",
+        "type": "sizing",
+        "description": "1.75rem"
+      },
+      "32": {
+        "value": "32px",
+        "type": "sizing",
+        "description": "2rem"
+      },
+      "36": {
+        "value": "36px",
+        "type": "sizing",
+        "description": "2.25rem"
+      },
+      "40": {
+        "value": "40px",
+        "type": "sizing",
+        "description": "2.5rem"
+      },
+      "44": {
+        "value": "44px",
+        "type": "sizing",
+        "description": "2.75rem"
+      },
+      "48": {
+        "value": "48px",
+        "type": "sizing",
+        "description": "3rem"
+      },
+      "64": {
+        "value": "64px",
+        "type": "sizing",
+        "description": "4rem"
+      },
+      "80": {
+        "value": "80px",
+        "type": "sizing",
+        "description": "5rem"
+      },
+      "96": {
+        "value": "96px",
+        "type": "sizing",
+        "description": "6rem"
+      },
+      "112": {
+        "value": "112px",
+        "type": "sizing",
+        "description": "7rem"
+      },
+      "128": {
+        "value": "128px",
+        "type": "sizing",
+        "description": "8rem"
+      }
     }
   },
   "font-family": {
@@ -408,6 +495,11 @@
     }
   },
   "font-size": {
+    "50": {
+      "value": "10px",
+      "type": "fontSizes",
+      "description": "0.625rem"
+    },
     "100": {
       "value": "12px",
       "type": "fontSizes",
