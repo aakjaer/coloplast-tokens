@@ -12,7 +12,7 @@
         }
       },
       "border-radius": {
-        "value": "{border-radius.lg}",
+        "value": "{core.border-radius.lg}",
         "type": "borderRadius"
       },
       "gap": {
