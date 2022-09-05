@@ -279,21 +279,21 @@
       },
       "border-radius": {
         "sm": {
-          "value": "{border-radius.round}",
+          "value": "{core.border-radius.round}",
           "type": "borderRadius"
         },
         "md": {
-          "value": "{border-radius.round}",
+          "value": "{core.border-radius.round}",
           "type": "borderRadius"
         },
         "lg": {
-          "value": "{border-radius.round}",
+          "value": "{core.border-radius.round}",
           "type": "borderRadius"
         }
       },
       "opacity": {
         "disabled": {
-          "value": "{opacity.50}",
+          "value": "{core.opacity.50}",
           "type": "opacity"
         }
       }
