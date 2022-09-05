@@ -4,10 +4,10 @@
       "link": {
         "primary": {
           "value": {
-            "fontFamily": "{font-family.headline}",
-            "fontWeight": "{font-weight.headline.bold}",
-            "lineHeight": "{line-height.body}",
-            "fontSize": "{font-size.350}",
+            "fontFamily": "{core.font-family.headline}",
+            "fontWeight": "{core.font-weight.headline.bold}",
+            "lineHeight": "{core.line-height.body}",
+            "fontSize": "{core.font-size.350}",
             "letterSpacing": ""
           },
           "type": "typography",

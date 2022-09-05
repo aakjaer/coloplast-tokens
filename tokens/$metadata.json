@@ -14,7 +14,6 @@
     "component/dropdown",
     "component/footer",
     "component/navbar",
-    "documentation",
-    "dark"
+    "documentation"
   ]
 }
