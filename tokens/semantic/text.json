@@ -1560,47 +1560,6 @@
           "textCase": "none"
         },
         "type": "typography"
-      },
-      "body-300-copy": {
-        "regular": {
-          "value": {
-            "fontFamily": "{core.font-family.body}",
-            "fontWeight": "{core.font-weight.body.regular}",
-            "lineHeight": "{core.line-height.body}",
-            "fontSize": "{core.font-size.350}",
-            "letterSpacing": "{core.letter-spacing.md}",
-            "paragraphSpacing": "0",
-            "textDecoration": "none",
-            "textCase": "none"
-          },
-          "type": "typography"
-        },
-        "medium": {
-          "value": {
-            "fontFamily": "{core.font-family.body}",
-            "fontWeight": "{core.font-weight.body.medium}",
-            "lineHeight": "{core.line-height.body}",
-            "fontSize": "{core.font-size.350}",
-            "letterSpacing": "{core.letter-spacing.md}",
-            "paragraphSpacing": "0",
-            "textDecoration": "none",
-            "textCase": "none"
-          },
-          "type": "typography"
-        },
-        "bold": {
-          "value": {
-            "fontFamily": "{core.font-family.body}",
-            "fontWeight": "{core.font-weight.body.bold}",
-            "lineHeight": "{core.line-height.body}",
-            "fontSize": "{core.font-size.350}",
-            "letterSpacing": "{core.letter-spacing.md}",
-            "paragraphSpacing": "0",
-            "textDecoration": "none",
-            "textCase": "none"
-          },
-          "type": "typography"
-        }
       }
     }
   }
