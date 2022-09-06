@@ -279,15 +279,15 @@
       },
       "border-radius": {
         "sm": {
-          "value": "{core.border-radius.round}",
+          "value": "{core.border-radius.full}",
           "type": "borderRadius"
         },
         "md": {
-          "value": "{core.border-radius.round}",
+          "value": "{core.border-radius.full}",
           "type": "borderRadius"
         },
         "lg": {
-          "value": "{core.border-radius.round}",
+          "value": "{core.border-radius.full}",
           "type": "borderRadius"
         }
       },
