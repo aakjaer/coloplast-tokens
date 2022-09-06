@@ -15,10 +15,6 @@
         "value": "{core.color.grey.500}",
         "type": "color"
       },
-      "hover": {
-        "value": "{color.text.default}",
-        "type": "color"
-      },
       "placeholder": {
         "value": "{color.text.subtle}",
         "type": "color"
@@ -43,16 +39,24 @@
         "value": "{core.color.grey.300}",
         "type": "color"
       },
+      "link": {
+        "value": "{core.color.turquoise.600}",
+        "type": "color"
+      },
+      "link-hover": {
+        "value": "{core.color.turquoise.700}",
+        "type": "color"
+      },
       "brand": {
         "value": "{core.color.turquoise.600}",
         "type": "color"
       },
-      "danger": {
-        "value": "{core.color.red.600}",
-        "type": "color"
-      },
       "success": {
         "value": "{core.color.green.700}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{core.color.red.600}",
         "type": "color"
       }
     },
@@ -191,16 +195,6 @@
       },
       "disabled": {
         "value": "{color.text.disabled}",
-        "type": "color"
-      }
-    },
-    "link": {
-      "default": {
-        "value": "{core.color.turquoise.600}",
-        "type": "color"
-      },
-      "hover": {
-        "value": "{core.color.turquoise.700}",
         "type": "color"
       }
     },

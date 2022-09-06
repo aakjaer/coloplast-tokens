@@ -33,6 +33,14 @@
         "value": "{core.color.turquoise.400}",
         "type": "color"
       },
+      "link": {
+        "value": "{core.color.turquoise.400}",
+        "type": "color"
+      },
+      "link-hover": {
+        "value": "{core.color.turquoise.300}",
+        "type": "color"
+      },
       "danger": {
         "value": "{core.color.red.400}",
         "type": "color"
@@ -159,16 +167,6 @@
       },
       "disabled": {
         "value": "rgba({color.text.default}, 0.5)",
-        "type": "color"
-      }
-    },
-    "link": {
-      "default": {
-        "value": "{core.color.turquoise.400}",
-        "type": "color"
-      },
-      "hover": {
-        "value": "{core.color.turquoise.300}",
         "type": "color"
       }
     },
