@@ -174,7 +174,7 @@
         "type": "color"
       },
       "brand": {
-        "value": "{color.bg.brand}",
+        "value": "{color.bg.primary}",
         "type": "color"
       },
       "inverse": {
