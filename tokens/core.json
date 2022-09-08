@@ -148,28 +148,31 @@
       },
       "sand": {
         "50": {
-          "value": "#FCFCFB",
-          "type": "color",
-          "description": "Light"
-        },
-        "100": {
           "value": "#F6F6F3",
           "type": "color",
           "description": "Middle"
         },
-        "200": {
+        "100": {
           "value": "#F1F0EC",
           "type": "color",
           "description": "Base Sand 01"
         },
-        "300": {
-          "value": "#E5E4E0",
+        "200": {
+          "value": "#E7E5DF",
           "type": "color"
         },
-        "400": {
+        "300": {
           "value": "#DCDAD5",
           "type": "color",
           "description": "Base Sand 02"
+        },
+        "400": {
+          "value": "#D5D2CE",
+          "type": "color"
+        },
+        "500": {
+          "value": "#CAC8C4",
+          "type": "color"
         }
       },
       "green": {
