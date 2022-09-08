@@ -40,22 +40,22 @@
       },
       "turquoise": {
         "50": {
-          "value": "#e8f7fa",
+          "value": "#F2FAFC",
           "type": "color",
           "description": " "
         },
         "100": {
-          "value": "#d4eff5",
+          "value": "#E0F5F9",
           "type": "color",
           "description": " "
         },
         "200": {
-          "value": "#aae1ec",
+          "value": "#CCECF3",
           "type": "color",
           "description": " "
         },
         "300": {
-          "value": "#7ad3e1",
+          "value": "#B3E3ED",
           "type": "color"
         },
         "400": {
