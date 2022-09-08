@@ -128,6 +128,10 @@
       "danger": {
         "value": "{core.color.red.500}",
         "type": "color"
+      },
+      "secondary": {
+        "value": "{core.color.grey.50}",
+        "type": "color"
       }
     },
     "border": {
