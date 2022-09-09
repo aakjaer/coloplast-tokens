@@ -124,6 +124,10 @@
         "value": "{core.color.green.500}",
         "type": "color"
       },
+      "info": {
+        "value": "{core.color.sand.100}",
+        "type": "color"
+      },
       "attention": {
         "value": "{core.color.yellow.100}",
         "type": "color"
@@ -139,10 +143,6 @@
       },
       "toggle-off": {
         "value": "{core.color.grey.500}",
-        "type": "color"
-      },
-      "info": {
-        "value": "{core.color.sand.100}",
         "type": "color"
       }
     },
