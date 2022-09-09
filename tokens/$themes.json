@@ -662,7 +662,8 @@
       "color.bg.interactive-strong": "S:dbd93191dc403749c526ca68852786d5103f849c,",
       "color.bg.interactive-stronger": "S:59b7e49e5cbe08acb741b096fe407c106c6c9821,",
       "color.bg.field": "S:2140916fba107c946b702c950c7a2f80c640a359,",
-      "color.bg.toggle-off": "S:fee2cc87a2a96a20363a8fc174f5dc8ab9c11ef1,"
+      "color.bg.toggle-off": "S:fee2cc87a2a96a20363a8fc174f5dc8ab9c11ef1,",
+      "color.bg.info": "S:cbc0267eb2b0ca4762ff4ae7f2119e588aaf459a,"
     }
   },
   {
@@ -1248,7 +1249,8 @@
       "color.bg.interactive-stronger": "S:bb7d4537b481367bb447e340402fa48abf236dc2,",
       "color.bg.field": "S:a761ac9212af7cb5a75f355a359d11db683f409f,",
       "color.bg.toggle": "S:fb9eaca9e35bb12ce1d99a42fb2afcea5dfd4e4f,",
-      "color.bg.toggle-off": "S:73db9660384a0526ebde30683cf676c4e563304c,"
+      "color.bg.toggle-off": "S:73db9660384a0526ebde30683cf676c4e563304c,",
+      "color.bg.info": "S:4e8163a3b9eb16276a17c3689da0c7d540354deb,"
     }
   }
 ]

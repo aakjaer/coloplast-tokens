@@ -140,6 +140,10 @@
       "toggle-off": {
         "value": "{core.color.grey.500}",
         "type": "color"
+      },
+      "info": {
+        "value": "{core.color.sand.100}",
+        "type": "color"
       }
     },
     "border": {
