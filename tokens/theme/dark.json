@@ -71,6 +71,10 @@
         "value": "{core.color.grey.800}",
         "type": "color"
       },
+      "neutral-strong": {
+        "value": "{core.color.grey.700}",
+        "type": "color"
+      },
       "interactive": {
         "value": "{core.color.turquoise.500}",
         "type": "color"
@@ -106,6 +110,11 @@
       "danger": {
         "value": "{core.color.red.400}",
         "type": "color"
+      },
+      "field": {
+        "value": "{color.bg.page}",
+        "type": "color",
+        "description": "Background for form input fields"
       }
     },
     "border": {

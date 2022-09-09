@@ -656,7 +656,13 @@
       "color.bg.neutral-subtle": "S:89b18c52cd7f4a9f2c2d0e70c258e43768049cad,",
       "color.bg.neutral-strong": "S:8f292da37013639927f9a8d75c4dbd72407d17aa,",
       "color.bg.brand-stronger": "S:59b7e49e5cbe08acb741b096fe407c106c6c9821,",
-      "component.breadcrumb.bg-color": "S:a3eb68b53964d9fcd0195242690a899f85d26ff1,"
+      "component.breadcrumb.bg-color": "S:a3eb68b53964d9fcd0195242690a899f85d26ff1,",
+      "color.bg.interactive-muted": "S:408cd8e2bd65316c1ab6e8b14af741aa48fdb6ba,",
+      "color.bg.interactive-subtle": "S:ef58c98e0b64e9194e9c4feccc052f85a930d5fe,",
+      "color.bg.interactive-strong": "S:dbd93191dc403749c526ca68852786d5103f849c,",
+      "color.bg.interactive-stronger": "S:59b7e49e5cbe08acb741b096fe407c106c6c9821,",
+      "color.bg.field": "S:2140916fba107c946b702c950c7a2f80c640a359,",
+      "color.bg.toggle-off": "S:fee2cc87a2a96a20363a8fc174f5dc8ab9c11ef1,"
     }
   },
   {
@@ -1234,7 +1240,15 @@
       "core.color.sand.500": "S:439e032b2c269702d6c6543a42bc02c57a2ce6bc,",
       "core.color.transparent.white-10": "S:002b12424f021c06ff05cf647eaf6b498f99045a,",
       "color.bg.brand-stronger": "S:bb7d4537b481367bb447e340402fa48abf236dc2,",
-      "color.bg.neutral-strong": "S:c7116635bd27c5d03f50a282ac45f7e0aa484efb,"
+      "color.bg.neutral-strong": "S:3d555184a110e0cc6b792ffc0471b114b3e50c27,",
+      "component.breadcrumb.bg-color": "S:62c614d3973ff833347c6d98e4e7187f07eac770,",
+      "color.bg.interactive-muted": "S:902283b1dc7c0108c1a669b3a575c205e29e71fd,",
+      "color.bg.interactive-subtle": "S:9b41b3db70dd086524a8cfe0112a20ccc805bdfa,",
+      "color.bg.interactive-strong": "S:0028cc205ba1ee16b8e145cde2a0ce80791edf9e,",
+      "color.bg.interactive-stronger": "S:bb7d4537b481367bb447e340402fa48abf236dc2,",
+      "color.bg.field": "S:a761ac9212af7cb5a75f355a359d11db683f409f,",
+      "color.bg.toggle": "S:fb9eaca9e35bb12ce1d99a42fb2afcea5dfd4e4f,",
+      "color.bg.toggle-off": "S:73db9660384a0526ebde30683cf676c4e563304c,"
     }
   }
 ]
