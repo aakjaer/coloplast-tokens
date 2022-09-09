@@ -61,25 +61,26 @@
       }
     },
     "bg": {
+      "page": {
+        "value": "{core.color.neutral.white}",
+        "type": "color",
+        "description": "For use as a default page background color."
+      },
       "default": {
         "value": "{core.color.neutral.white}",
         "type": "color",
-        "description": "Default page background"
+        "description": "For use as a background color, in components such as Card, Modal, and Popover."
       },
-      "surface": {
-        "value": "{core.color.neutral.white}",
+      "neutral": {
+        "value": "{core.color.grey.100}",
         "type": "color"
       },
-      "muted": {
-        "value": "{core.color.grey.200}",
-        "type": "color"
-      },
-      "subtle": {
+      "neutral-subtle": {
         "value": "{core.color.grey.50}",
         "type": "color"
       },
-      "disabled": {
-        "value": "{core.color.grey.100}",
+      "neutral-strong": {
+        "value": "{core.color.grey.200}",
         "type": "color"
       },
       "hover": {
@@ -99,21 +100,24 @@
         "type": "color",
         "description": "Selected and active elements;"
       },
-      "brand-strong": {
-        "value": "{core.color.turquoise.700}",
-        "type": "color",
-        "description": "test"
-      },
-      "brand": {
-        "value": "{core.color.turquoise.500}",
-        "type": "color"
-      },
-      "brand-muted": {
+      "interactive-muted": {
         "value": "{core.color.turquoise.200}",
         "type": "color"
       },
-      "brand-subtle": {
+      "interactive-subtle": {
         "value": "{core.color.turquoise.50}",
+        "type": "color"
+      },
+      "interactive-strong": {
+        "value": "{core.color.turquoise.600}",
+        "type": "color"
+      },
+      "interactive-stronger": {
+        "value": "{core.color.turquoise.700}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{core.color.turquoise.500}",
         "type": "color"
       },
       "success": {
@@ -201,7 +205,7 @@
       "primary": {
         "default": {
           "bg-color": {
-            "value": "{core.color.turquoise.500}",
+            "value": "{color.bg.brand}",
             "type": "color"
           },
           "text-color": {
@@ -229,7 +233,7 @@
         },
         "active": {
           "bg-color": {
-            "value": "{core.color.turquoise.700}",
+            "value": "{color.bg.interactive-strong}",
             "type": "color"
           },
           "text-color": {
@@ -317,7 +321,7 @@
       "tertiary": {
         "default": {
           "bg-color": {
-            "value": "{core.color.grey.100}",
+            "value": "{color.bg.neutral}",
             "type": "color"
           },
           "text-color": {
@@ -331,7 +335,7 @@
         },
         "hover": {
           "bg-color": {
-            "value": "{core.color.turquoise.50}",
+            "value": "{color.bg.interactive-muted}",
             "type": "color"
           },
           "text-color": {
@@ -345,7 +349,7 @@
         },
         "active": {
           "bg-color": {
-            "value": "{core.color.turquoise.200}",
+            "value": "{color.bg.interactive-muted}",
             "type": "color"
           },
           "text-color": {
@@ -359,7 +363,7 @@
         },
         "focus": {
           "bg-color": {
-            "value": "{core.color.turquoise.50}",
+            "value": "{color.bg.interactive-muted}",
             "type": "color"
           },
           "text-color": {

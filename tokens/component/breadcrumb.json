@@ -1,13 +1,9 @@
 {
   "component": {
     "breadcrumb": {
-      "color": {
-        "bg": {
-          "default": {
-            "value": "{color.bg.subtle}",
-            "type": "color"
-          }
-        }
+      "bg-color": {
+        "value": "{color.bg.neutral-subtle}",
+        "type": "color"
       }
     }
   }
